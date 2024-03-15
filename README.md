@@ -1,5 +1,5 @@
 # anime-catalog
-[[https://julia6658.github.io/Sea-Side/](https://julia6658.github.io/anime-catalog/)]
+[(https://julia6658.github.io/anime-catalog/)]
 
 Responsive Anime Catalog with:
 
